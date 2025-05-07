@@ -1,0 +1,6 @@
+Email,Syntax,MX,SMTP,Disposable,RoleBased,FinalStatus
+test@gmail.com,true,true,,false,false,unknown
+fake@10minutemail.com,true,false,,true,false,invalid
+admin@yourcompany.com,true,true,,false,true,unknown
+random@catchall.com,true,true,,false,false,unknown
+support@yopmail.com,true,true,,true,true,unknown
